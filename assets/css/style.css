@@ -92,16 +92,16 @@ nav {
     color: #ffffff;
 }
 
-.benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px; 
-}
-
 .benefits h3 {
     font-size: 24px;
     margin-bottom: 10px;
     text-align: center; 
+}
+
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px; 
 }
 
 /* combined sections and created .benefits
@@ -189,8 +189,12 @@ nav {
     max-height: 200px;
 }
 
+.info h2 {
+    margin-bottom: 20px;
+    font-size: 28px;
+}
 /* combined img and created .info
-.search-engine-optimization {
+.search-engine-optimization img {
     max-height: 200px;
 
 .online-reputation-management img {
@@ -201,11 +205,6 @@ nav {
     max-height: 200px;
 }
 */
-
-.info h2 {
-    margin-bottom: 20px;
-    font-size: 28px;
-}
 
 /* combined h2 and created .info
 .search-engine-optimization h2 {
