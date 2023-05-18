@@ -45,6 +45,8 @@ p {
 .header nav ul {
     list-style-type: none;
     text-align: right;
+    font-size: 25px;
+    padding-bottom: 1rem;
 }
 
 .header nav ul li {
