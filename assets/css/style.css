@@ -44,12 +44,12 @@ p {
 
 .header nav ul {
     list-style-type: none;
-    float: right;
+    text-align: right;
 }
 
 .header nav ul li {
-    display: inline;
-    margin-left: 25px;
+    display: inline-block;
+    margin: 0 10px;
 }
 
 /* Hero Styles */
